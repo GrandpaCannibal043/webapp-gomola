@@ -14,3 +14,5 @@ Tento projekt je jednoduchá webová stránka postavená s použitím **HTML, CS
 - **HTML5** – štruktúra stránky  
 - **CSS3** – štýlovanie a rozloženie  
 - **JavaScript** – dynamické správanie
+
+AI mi pomohlo s vytvorenim textu a este s pár kódmi, ktoré by som sám od seba nenapísal :)
